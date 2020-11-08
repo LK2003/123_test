@@ -1,0 +1,9 @@
+C:\Users\ronui\source\repos\Zmeya\Zmeya\bin\Debug\Zmeya.exe.config
+C:\Users\ronui\source\repos\Zmeya\Zmeya\bin\Debug\Zmeya.exe
+C:\Users\ronui\source\repos\Zmeya\Zmeya\bin\Debug\Zmeya.pdb
+C:\Users\ronui\source\repos\Zmeya\Zmeya\obj\Debug\Zmeya.csprojAssemblyReference.cache
+C:\Users\ronui\source\repos\Zmeya\Zmeya\obj\Debug\Zmeya.Form1.resources
+C:\Users\ronui\source\repos\Zmeya\Zmeya\obj\Debug\Zmeya.Properties.Resources.resources
+C:\Users\ronui\source\repos\Zmeya\Zmeya\obj\Debug\Zmeya.csproj.GenerateResource.cache
+C:\Users\ronui\source\repos\Zmeya\Zmeya\obj\Debug\Zmeya.exe
+C:\Users\ronui\source\repos\Zmeya\Zmeya\obj\Debug\Zmeya.pdb
